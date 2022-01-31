@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/RevengeHub/Revenge/main/Revenge%20Hub"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RevengeHub/Revenge/main/KeySystem"))()
